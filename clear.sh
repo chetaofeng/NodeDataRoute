@@ -1,0 +1,14 @@
+rm ./public/center/*
+rm ./public/centerimage/*
+rm ./public/centermongodb/*
+rm ./public/centerincome/*
+rm ./public/centermssql/*
+rm ./public/centermysql/*
+rm ./public/centeroracle/*
+rm ./public/stationimage/*
+rm ./public/stationimageincome/*
+rm ./public/stationincome/*
+rm ./public/stationmysql/*
+rm ./public/subcenterincome/*
+rm ./public/subcenter/*
+rm ./public/subcentermysql/*
